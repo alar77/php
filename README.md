@@ -1,4 +1,6 @@
 # php
+[![Docker](https://github.com/alar77/php-docker-image/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/alar77/php-docker-image/actions/workflows/docker-publish.yml)
+
 Small image to be used as bibucket pipeline container
 
 It's based on Docker Official PHP image  https://hub.docker.com/_/php
